@@ -1,0 +1,28 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #071629;
+  line-height: 1.6;
+  background: white;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Layout */
+.nav {
+  max-width: 1000px;
+  margin: 0 au
